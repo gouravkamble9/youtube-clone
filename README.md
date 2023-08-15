@@ -9,6 +9,7 @@ Welcome to the YouTube Clone repository! This project is a modern web applicatio
 - **Responsive Design**: Enjoy a seamless and captivating user experience across a range of devices, from smartphones to desktops.
 - **Video Playback**: Watch your preferred videos with an intuitive video player that supports essential controls like play, pause, seek, and volume adjustment.
 - **Search and Browse**: Effortlessly search for videos using keywords and explore a vast repository of content, similar to the recommendations on YouTube.
+- **Related Videos**: Enhance your viewing experience with dynamically generated related video suggestions, keeping you engaged with relevant content.
 - **RapidAPI Integration**: Harnessing the capabilities of RapidAPI, this project fetches real-time video data to ensure up-to-date content availability.
 
 ## 🔧 Technologies Used
