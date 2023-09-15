@@ -28,3 +28,6 @@ Welcome to the YouTube Clone repository! This project is a modern web applicatio
 6.  Save the `.env` file.
 7. Execute `npm start` to launch the development server and explore the YouTube Clone in your preferred web browser.
 
+## Live Demo
+
+Check out the live demo of the Web App https://gk-youtube-clone.netlify.app/
